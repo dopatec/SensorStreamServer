@@ -2,6 +2,11 @@
 
 Sensor Stream allows you to convert your phone into a complete sensor hub and stream real-time sensor information from your phone to the provided open source server over wifi/local network. The server can be modified as per your use-case. The app can be used to build IoT applications, for data science projects and many more use cases!
 
+# Companion apps
+To use the server, you'll also need the companion apps that you can download from the links below:
+- [Android](https://play.google.com/store/apps/details?id=com.priykum.SensorStream)
+- [iOS](https://apps.apple.com/in/app/phonepi-sensor-stream-pro/id6742052077)
+
 # Sensor Stream Server
 These are simple servers with WebSocket support that accept the sensor data and write it to a text file. These are companion sample servers for the Sensor Stream app.
 
